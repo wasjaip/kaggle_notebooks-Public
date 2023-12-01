@@ -13,7 +13,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/wasjaip).
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 
 ## NeurIPS 2023 - Machine Unlearning
-- [NeurIPS 2023 - Machine Unlearning]
+- [NeurIPS 2023 - Machine Unlearning](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/test-finetune-v1-005.ipynb)
 
 ## Natural Language Processing
 ### Text Classification
