@@ -8,25 +8,25 @@
 [Ссылка на соревнование](https://www.kaggle.com/competitions/playground-series-s3e25)
 
 **Enefit - Predict Energy Behavior of Prosumers** (2 месяца до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/eneft-energy-behavior)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
 
 **LLM - Detect AI Generated Text** (2 месяца до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/llm-detect-ai-text)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)
 
 **UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)** (1 месяц до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/ubc-ocean)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/UBC-OCEAN)
 
 **Linking Writing Processes to Writing Quality** (1 месяц до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/linking-writing-quality)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality)
 
 **Optiver - Trading at the Close** (20 дней до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/optiver-trading)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
 
 **Child Mind Institute - Detect Sleep States** (5 дней до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/child-mind-institute-sleep-states)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
 
 **Contradictory, My Dear Watson**  
-[Ссылка на соревнование](https://www.kaggle.com/c/contradictory-my-dear-watson)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/contradictory-my-dear-watson)
 
 
 # Оглавление 
