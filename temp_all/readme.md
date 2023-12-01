@@ -1,3 +1,26 @@
+<small>
+
+## предсказание временных рядов  
+- [предсказание климата в йене с lstm](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
+- [tps-22-03 с lstm](https://www.kaggle.com/lonnieqin/tps-22-03-with-lstm)
+- [прогноз вероятности футбольного матча - lstm [12-е решение]](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
+- [прогнозирование плотности микробизнеса с prophet](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-prophet)
+- [прогнозирование плотности микробизнеса с kerastuner](https://www.kaggle.com/code/lonnieqin/kerastuner-baseline)
+
+## система рекомендаций  
+- [система рекомендаций с fastai](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
+- [система рекомендаций с tensorflow recommenders](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
+
+## классификация звуков  
+- [классификация видов птиц с efficientnet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
+
+## классификация видео  
+- [классификация видео](https://www.kaggle.com/code/lonnieqin/video-classification)
+
+</small>
+
+
+
 # Оглавление 
 ## Компьютерное зрение
 ### Классификация изображений  
