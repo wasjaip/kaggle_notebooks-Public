@@ -1,7 +1,6 @@
 
 # Kaggle Ноутбуки
-Ноутбуки с моего [аккаунта Kaggle](https://www.kaggle.com/wasjaip).
-[![аккаунта Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/wasjaip)
+Ноутбуки с моего [![аккаунта Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/wasjaip)
 
 Активные соревнования на Kaggle
 
