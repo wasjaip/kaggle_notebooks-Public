@@ -1,6 +1,7 @@
+
 # Kaggle Ноутбуки
 Ноутбуки с моего [аккаунта Kaggle](https://www.kaggle.com/wasjaip).
-
+<small>
 # Активные соревнования на Kaggle
 
 ## Regression with a Mohs Hardness Dataset
