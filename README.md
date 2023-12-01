@@ -25,8 +25,6 @@
 **Child Mind Institute - Detect Sleep States** (5 дней до окончания)  
 [Ссылка на соревнование](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
 
-**Contradictory, My Dear Watson**  
-[Ссылка на соревнование](https://www.kaggle.com/competitions/contradictory-my-dear-watson)
 
 
 # Оглавление 
@@ -43,6 +41,7 @@
 ## Обработка естественного языка
 ### Классификация текста  
 - [Фильтр спама с использованием Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
+- [Классификация с TPU](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
 ### Генерация текста  
 - [Генерация пьес Шекспира: Трансформер](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Моделирование скрытого языка  
