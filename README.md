@@ -4,30 +4,30 @@
 
 Активные соревнования на Kaggle
 
-*Regression with a Mohs Hardness Dataset* (4 дня до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/mohs-hardness-dataset)
+**Regression with a Mohs Hardness Dataset** (4 дня до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/mohs-hardness-dataset)
 
-*Enefit - Predict Energy Behavior of Prosumers* (2 месяца до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/eneft-energy-behavior)
+**Enefit - Predict Energy Behavior of Prosumers** (2 месяца до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/eneft-energy-behavior)
 
-*LLM - Detect AI Generated Text* (2 месяца до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/llm-detect-ai-text)
+**LLM - Detect AI Generated Text** (2 месяца до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/llm-detect-ai-text)
 
-*UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)* (1 месяц до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/ubc-ocean)
+**UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)** (1 месяц до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/ubc-ocean)
 
-*Linking Writing Processes to Writing Quality* (1 месяц до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/linking-writing-quality)
+**Linking Writing Processes to Writing Quality** (1 месяц до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/linking-writing-quality)
 
-*Optiver - Trading at the Close* (20 дней до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/optiver-trading)
+**Optiver - Trading at the Close** (20 дней до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/optiver-trading)
 
+**Child Mind Institute - Detect Sleep States** (5 дней до окончания)  
+[Ссылка на соревнование](https://www.kaggle.com/c/child-mind-institute-sleep-states)
 
-*Child Mind Institute - Detect Sleep States* (5 дней до окончания)
-- [Ссылка на соревнование](https://www.kaggle.com/c/child-mind-institute-sleep-states)
+**Contradictory, My Dear Watson**  
+[Ссылка на соревнование](https://www.kaggle.com/c/contradictory-my-dear-watson)
 
-*Contradictory, My Dear Watson*
-- [Ссылка на соревнование](https://www.kaggle.com/c/contradictory-my-dear-watson)
 
 
 
