@@ -33,32 +33,23 @@
 ## Компьютерное зрение
 ### Классификация изображений  
 - [Классификация MNIST с CNN](https://www.kaggle.com/lonnieqin/mnist-classification-with-cnn)
-
 ### Регрессия изображений  
 - [Мульти-входная модель TensorFlow для популярности животных](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
-
 ## Генерация изображений  
 - [Генерация цифр с GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
-
 ## NeurIPS 2023 - Машинное Отучение (414/1188)  
 - [NeurIPS 2023 - Машинное Отучение](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/test-finetune-v1-005.ipynb)
-
 ## Обработка естественного языка
 ### Классификация текста  
 - [Фильтр спама с использованием Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
-
 ### Генерация текста  
 - [Генерация пьес Шекспира: Трансформер](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
-
 ### Моделирование скрытого языка  
 - [Отзывы IMDB: Моделирование скрытого языка](https://www.kaggle.com/lonnieqin/imdb-reviews-masked-language-modeling)
-
 ### Машинный перевод  
 - [Перевод с английского на испанский: Трансформер](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
-
 ### Распознавание именованных сущностей  
 - [Распознавание именованных сущностей с Keras](https://www.kaggle.com/lonnieqin/name-entity-recognition-with-keras)
-
 ### Вывод естественного языка  
 - [Вывод естественного языка с BERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-bert)
 ## Табличное предсказание
