@@ -57,7 +57,6 @@
 - [Предсказание цен на дома с использованием разных моделей](https://www.kaggle.com/lonnieqin/house-price-predictor-using-different-models)
 - [Предсказание цен на дома с DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
 ### Классификация  
-- [Классификация Iris с TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [Предсказание выживания на Титанике с разными моделями](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
 ## Мульти-меточная регрессия  
 * [Одноклеточное возмущение с Conv1D](https://www.kaggle.com/code/lonnieqin/single-cell-perturbation-with-conv1d)
@@ -68,33 +67,14 @@
 ## Предсказание временных рядов  
 - [Предсказание климата в Йене с LSTM](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
 - [TPS-22-03 с LSTM](https://www.kaggle.com/lonnieqin/tps-22-03-with-lstm)
-- [Прогноз вероятности футбольного матча - LSTM [12-е решение]](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
-- [Прогнозирование плотности микробизнеса с Prophet](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-prophet)
-- [Прогнозирование плотности микробизнеса с KerasTuner](https://www.kaggle.com/code/lonnieqin/kerastuner-baseline)
+
 ## Система рекомендаций  
-- [Система рекомендаций с FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
-- [Система рекомендаций с TensorFlow Recommenders](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
+
 ## Классификация звуков  
-- [Классификация видов птиц с EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
+
 ## Классификация видео  
-- [Классификация видео](https://www.kaggle.com/code/lonnieqin/video-classification)
 
-## предсказание временных рядов  
-- [предсказание климата в йене с lstm](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
-- [tps-22-03 с lstm](https://www.kaggle.com/lonnieqin/tps-22-03-with-lstm)
-- [прогноз вероятности футбольного матча - lstm [12-е решение]](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
-- [прогнозирование плотности микробизнеса с prophet](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-prophet)
-- [прогнозирование плотности микробизнеса с kerastuner](https://www.kaggle.com/code/lonnieqin/kerastuner-baseline)
 
-## система рекомендаций  
-- [система рекомендаций с fastai](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
-- [система рекомендаций с tensorflow recommenders](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
-
-## классификация звуков  
-- [классификация видов птиц с efficientnet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
-
-## классификация видео  
-- [классификация видео](https://www.kaggle.com/code/lonnieqin/video-classification)
 
 
 
