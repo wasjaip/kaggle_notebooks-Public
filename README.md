@@ -5,7 +5,7 @@
 Активные соревнования на Kaggle
 
 **Regression with a Mohs Hardness Dataset** (4 дня до окончания)  
-[Ссылка на соревнование](https://www.kaggle.com/c/mohs-hardness-dataset)
+[Ссылка на соревнование](https://www.kaggle.com/competitions/playground-series-s3e25)
 
 **Enefit - Predict Energy Behavior of Prosumers** (2 месяца до окончания)  
 [Ссылка на соревнование](https://www.kaggle.com/c/eneft-energy-behavior)
