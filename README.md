@@ -41,7 +41,7 @@
 ## Обработка естественного языка
 ### Классификация текста  
 - [Фильтр спама с использованием Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
-- [Классификация с TPU](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
+- [Классификация с TPU](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/nlp-watson-v1-tpu.ipynb)
 ### Генерация текста  
 - [Генерация пьес Шекспира: Трансформер](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Моделирование скрытого языка  
