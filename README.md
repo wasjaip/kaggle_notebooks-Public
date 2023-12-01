@@ -1,7 +1,7 @@
 
 # Kaggle Ноутбуки
 Ноутбуки с моего [аккаунта Kaggle](https://www.kaggle.com/wasjaip).
-[![Открыть в Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/wasjaip/test-finetune-v1-005)
+[![аккаунта Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/wasjaip)
 
 Активные соревнования на Kaggle
 
