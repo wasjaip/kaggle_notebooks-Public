@@ -11,7 +11,7 @@
 ## Генерация изображений
 - [Генерация цифр с GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 
-## NeurIPS 2023 - Машинное Отучение
+## NeurIPS 2023 - Машинное Отучение (414/1188)
 - [NeurIPS 2023 - Машинное Отучение](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/test-finetune-v1-005.ipynb)
 
 ## Обработка естественного языка
