@@ -4,9 +4,7 @@
 
 Активные соревнования на Kaggle
 
-*Regression with a Mohs Hardness Dataset*
-- Осталось 5 попыток сегодня · 4 дня до окончания
-- Рейтинг: 130/1386
+*Regression with a Mohs Hardness Dataset* (4 дня до окончания)
 - [Ссылка на соревнование](https://www.kaggle.com/c/mohs-hardness-dataset)
 
 *Enefit - Predict Energy Behavior of Prosumers*
