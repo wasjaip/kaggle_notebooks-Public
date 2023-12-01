@@ -1,6 +1,56 @@
 # Kaggle Ноутбуки
 Ноутбуки с моего [аккаунта Kaggle](https://www.kaggle.com/wasjaip).
-# Оглавление
+
+# Активные соревнования на Kaggle
+
+## Regression with a Mohs Hardness Dataset
+- Осталось 5 попыток сегодня · 4 дня до окончания
+- Рейтинг: 130/1386
+- [Ссылка на соревнование](https://www.kaggle.com/c/mohs-hardness-dataset)
+
+## Enefit - Predict Energy Behavior of Prosumers
+- Осталось 5 попыток сегодня · 2 месяца до окончания
+- Рейтинг: 110/662
+- [Ссылка на соревнование](https://www.kaggle.com/c/eneft-energy-behavior)
+
+## LLM - Detect AI Generated Text
+- Осталось 5 попыток сегодня · 2 месяца до окончания
+- Рейтинг: 156/1884
+- [Ссылка на соревнование](https://www.kaggle.com/c/llm-detect-ai-text)
+
+## UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)
+- Осталось 5 попыток сегодня · 1 месяц до окончания
+- Рейтинг: 211/770
+- [Ссылка на соревнование](https://www.kaggle.com/c/ubc-ocean)
+
+## Linking Writing Processes to Writing Quality
+- Осталось 5 попыток сегодня · 1 месяц до окончания
+- Рейтинг: 206/1181
+- [Ссылка на соревнование](https://www.kaggle.com/c/linking-writing-quality)
+
+## Optiver - Trading at the Close
+- 0 попыток сегодня · 20 дней до окончания
+- Рейтинг: 451/3663
+- [Ссылка на соревнование](https://www.kaggle.com/c/optiver-trading)
+
+## NeurIPS 2023 - Machine Unlearning
+- 1 день назад
+- Рейтинг: 414/1188
+- [Ссылка на соревнование](https://www.kaggle.com/c/neurips-2023-unlearning)
+
+## Child Mind Institute - Detect Sleep States
+- Осталось 5 попыток сегодня · 5 дней до окончания
+- Рейтинг: 255/1830
+- [Ссылка на соревнование](https://www.kaggle.com/c/child-mind-institute-sleep-states)
+
+## Contradictory, My Dear Watson
+- Осталось 5 попыток сегодня · Продолжается
+- Не ранжировано/54
+- [Ссылка на соревнование](https://www.kaggle.com/c/contradictory-my-dear-watson)
+
+
+
+# Оглавление 
 ## Компьютерное зрение
 ### Классификация изображений
 - [Классификация MNIST с CNN](https://www.kaggle.com/lonnieqin/mnist-classification-with-cnn)
