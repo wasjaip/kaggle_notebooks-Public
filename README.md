@@ -55,7 +55,7 @@
 - [Вывод естественного языка с BERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-bert)
 ## Табличное предсказание
 ### Регрессия  
-- [Предсказание цен на авто](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
+- [Предсказание цен на авто](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/auto-yandex-mast-v1.ipynb)
 - [Предсказание цен на дома с DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
 ### Классификация  
 - [Предсказание выживания на Титанике с разными моделями](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
