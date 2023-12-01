@@ -13,7 +13,7 @@
 *LLM - Detect AI Generated Text* (2 месяца до окончания)
 - [Ссылка на соревнование](https://www.kaggle.com/c/llm-detect-ai-text)
 
-## UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)* (1 месяц до окончания)
+*UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)* (1 месяц до окончания)
 - [Ссылка на соревнование](https://www.kaggle.com/c/ubc-ocean)
 
 *Linking Writing Processes to Writing Quality* (1 месяц до окончания)
