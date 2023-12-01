@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
+Notebooks from my [Kaggle account](https://www.kaggle.com/wasjaip).
 # Table of Contents
 ## Computer Vision
 ### Image Classfication
@@ -12,6 +12,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ## Image Generation
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 
+## NeurIPS 2023 - Machine Unlearning
+- [NeurIPS 2023 - Machine Unlearning]
 
 ## Natural Language Processing
 ### Text Classification
