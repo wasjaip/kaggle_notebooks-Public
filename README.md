@@ -21,6 +21,7 @@
 
 **Optiver - Trading at the Close** (20 дней до окончания)  
 [Ссылка на соревнование](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
+
 [Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/optiver-catboost-v1.ipynb)
 
 **Child Mind Institute - Detect Sleep States** (5 дней до окончания)  
