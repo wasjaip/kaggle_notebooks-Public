@@ -9,6 +9,7 @@
 
 **Enefit - Predict Energy Behavior of Prosumers** (2 месяца до окончания)  
 [Ссылка на соревнование](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
+
 [Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
 
 **LLM - Detect AI Generated Text** (2 месяца до окончания)  
