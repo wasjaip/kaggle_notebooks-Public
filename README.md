@@ -23,10 +23,10 @@
 
 **Optiver - Trading at the Close** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
-Результаты 
-[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
-[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
-[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
+Результаты :
+- [применение CAtboost and LGBm](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/lgbm-catboost-v1.ipynb)
+- [SVM_ docker train](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/s-v-m-rapids.ipynb)
+
 
 [Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/optiver-catboost-v1.ipynb)
 
