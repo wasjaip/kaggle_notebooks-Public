@@ -4,29 +4,33 @@
 
 Активные соревнования на Kaggle
 
-**Regression with a Mohs Hardness Dataset** (4 дня до окончания)  
+**Regression with a Mohs Hardness Dataset**
 [Ссылка на соревнование](https://www.kaggle.com/competitions/playground-series-s3e25)
 
-**Enefit - Predict Energy Behavior of Prosumers** (2 месяца до окончания)  
+**Enefit - Predict Energy Behavior of Prosumers** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
 
 [Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
 
-**LLM - Detect AI Generated Text** (2 месяца до окончания)  
+**LLM - Detect AI Generated Text** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)
 
-**UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)** (1 месяц до окончания)  
+**UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/UBC-OCEAN)
 
-**Linking Writing Processes to Writing Quality** (1 месяц до окончания)  
+**Linking Writing Processes to Writing Quality**
 [Ссылка на соревнование](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality)
 
-**Optiver - Trading at the Close** (20 дней до окончания)  
+**Optiver - Trading at the Close** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
+Результаты 
+[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
+[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
+[Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/ergo-lite-v2-lgb-cat.ipynb)
 
 [Ссылка на код](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/optiver-catboost-v1.ipynb)
 
-**Child Mind Institute - Detect Sleep States** (5 дней до окончания)  
+**Child Mind Institute - Detect Sleep States** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
 
 
