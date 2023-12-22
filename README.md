@@ -23,6 +23,7 @@
 
 **Optiver - Trading at the Close** 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
+
 Результаты :
 - [применение CAtboost and LGBm](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/lgbm-catboost-v1.ipynb)
 - [SVM_ docker train](https://github.com/wasjaip/kaggle_notebooks-Public/blob/main/s-v-m-rapids.ipynb)
