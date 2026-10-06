@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Переменные окружения
+.env
+.env.*
+!.env.example
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Локальные данные и модели
+data/
+models/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.pt
+*.pth
