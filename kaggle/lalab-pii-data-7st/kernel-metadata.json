@@ -1,0 +1,25 @@
+{
+  "id": "wasjaip/lalab-pii-data-7st",
+  "id_no": 55315946,
+  "title": "LALab_ PII_Data_ 7st",
+  "code_file": "lalab-pii-data-7st.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "verracodeguacas/pii-deberta-models",
+    "startalks/pii-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "pii-detection-removal-from-educational-data"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:fd7fc0a352fc3bf80e4dd2232feb5fafe4183c2b46fb22f1ecb54c934b293875",
+  "machine_shape": "None"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wasjaip/safetensors-save-load-models",
+  "id_no": 47792521,
+  "title": "safetensors_save_load_models",
+  "code_file": "safetensors-save-load-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "wasjaip/tetst-model1"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:d3f015ec2413708a30a824fb9b1c5639ac31a9a62d35438fc3628b37fe3c6553",
+  "machine_shape": "None"
+}

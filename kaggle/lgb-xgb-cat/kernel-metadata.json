@@ -1,0 +1,26 @@
+{
+  "id": "wasjaip/lgb-xgb-cat",
+  "id_no": 51023950,
+  "title": "lgb_xgb_cat",
+  "code_file": "lgb-xgb-cat.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "utility script",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "wasjaip/test11111"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-credit-credit-risk-model-stability"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:287c4e0e224e592dc6113940a6cf3d099b814c7bff0c1e8da57f8e6bad123ac5",
+  "machine_shape": "None"
+}

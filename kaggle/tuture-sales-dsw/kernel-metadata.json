@@ -1,0 +1,23 @@
+{
+  "id": "wasjaip/tuture-sales-dsw",
+  "id_no": 50532305,
+  "title": "Tuture_sales_DSw",
+  "code_file": "tuture-sales-dsw.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abubakar624/kaggle-predict-future-sales-first-place-solution"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitive-data-science-predict-future-sales"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:287c4e0e224e592dc6113940a6cf3d099b814c7bff0c1e8da57f8e6bad123ac5",
+  "machine_shape": "None"
+}

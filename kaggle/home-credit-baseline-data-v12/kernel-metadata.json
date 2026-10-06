@@ -1,0 +1,25 @@
+{
+  "id": "wasjaip/home-credit-baseline-data-v12",
+  "id_no": 52770702,
+  "title": "Home Credit: baseline - DATA_v12",
+  "code_file": "home-credit-baseline-data-v12.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "utility script"
+  ],
+  "dataset_sources": [
+    "lucamtb/fedfunds"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-credit-credit-risk-model-stability"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:287c4e0e224e592dc6113940a6cf3d099b814c7bff0c1e8da57f8e6bad123ac5",
+  "machine_shape": "None"
+}

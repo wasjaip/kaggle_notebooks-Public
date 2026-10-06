@@ -1,0 +1,25 @@
+{
+  "id": "wasjaip/gpu-catboost-t4-verified",
+  "id_no": 48491203,
+  "title": "Gpu_Catboost_t4_verified",
+  "code_file": "gpu-catboost-t4-verified.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "regression",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tabular-playground-series-feb-2021"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:d3f015ec2413708a30a824fb9b1c5639ac31a9a62d35438fc3628b37fe3c6553",
+  "machine_shape": "None"
+}

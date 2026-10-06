@@ -1,0 +1,21 @@
+{
+  "id": "wasjaip/gpu-ergo-lite-v2-lgb-cat",
+  "id_no": 47935569,
+  "title": "gpu_ergo_lite_v2_lgb_cat",
+  "code_file": "gpu-ergo-lite-v2-lgb-cat.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-energy-behavior-of-prosumers"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9ec82287ef36acb3450b497fe41880766d3ad0d8459f2b887709cb4f10367a2c",
+  "machine_shape": "None"
+}

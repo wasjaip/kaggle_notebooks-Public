@@ -1,0 +1,23 @@
+{
+  "id": "wasjaip/a-small-analysis-of-the-final-submissions",
+  "id_no": 48494659,
+  "title": "A small analysis of the final Submissions",
+  "code_file": "a-small-analysis-of-the-final-submissions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "wasjaip/ergo-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-energy-behavior-of-prosumers"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:d3f015ec2413708a30a824fb9b1c5639ac31a9a62d35438fc3628b37fe3c6553",
+  "machine_shape": "None"
+}

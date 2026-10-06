@@ -1,0 +1,21 @@
+{
+  "id": "wasjaip/auto-yandex-mast-v1",
+  "id_no": 46958324,
+  "title": "auto_yandex_mast_v1",
+  "code_file": "auto-yandex-mast-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "used-cars-price-prediction-22ds"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9ec82287ef36acb3450b497fe41880766d3ad0d8459f2b887709cb4f10367a2c",
+  "machine_shape": "None"
+}
